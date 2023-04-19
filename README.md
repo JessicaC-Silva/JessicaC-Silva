@@ -1,5 +1,7 @@
-### Hi there 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=802190&center=true&width=1000&lines=Hello,+my+name+is+Jessica;I'm+in+career+transition;I'm+studying+Informatics+Engineering
+)](https://git.io/typing-svg)
+### 🖖About & history
+Motivated by the passion to discover new perspectives, cultures and travelling, I started my academic and profissional life in Turism. I worked on many segments but I became specialized at Customer Experience, Risk and Crisis Management and Leadership. Recently, I rediscovered myself on the IT area, started to study it by myself and decided to change my paths by entering a degree in informatics engineering.
 <!--
 **JessicaC-Silva/JessicaC-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
